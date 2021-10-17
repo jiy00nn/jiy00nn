@@ -23,10 +23,10 @@ I hope to develop all the intereting things.😄</p>
 ## Github Stats  
 <div align="center">
   <a>
-    <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=jiy00nn&hide=contribs&show_icons=true&count_private=true&hide_border=true&theme=nord" />
+    <img align="center" height=180 src="https://github-readme-stats.vercel.app/api?username=jiy00nn&hide=contribs&show_icons=true&count_private=true&hide_border=true&theme=nord" />
   </a>
   <a>
-    <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiy00nn&layout=compact&hide_border=true&theme=nord" />
+    <img align="center" height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiy00nn&layout=compact&hide_border=true&theme=nord" />
   </a>
 </div>  
 
