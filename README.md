@@ -18,17 +18,7 @@
 - 💬 Ask me about [here](mailto:wldbs204@gmail.com)
 
 <p> I enjoy cooking, tea blending and excercise.🫖🏃‍♀️ <br>
-I hope to develop all the intereting things.😄</p>
-
-## Github Stats  
-<div align="center">
-  <a>
-    <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=jiy00nn" />
-  </a>
-  <a>
-    <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiy00nn" />
-  </a>
-</div>  
+I hope to develop all the intereting things.😄</p> 
 
 ## 🤘 Skills 🤘
 ### Languages
